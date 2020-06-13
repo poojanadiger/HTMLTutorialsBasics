@@ -13,3 +13,6 @@ Web Browsers
 The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML documents and display them correctly.
 
 A browser does not display the HTML tags, but uses them to determine how to display the document.
+
+Reference Websites Link:
+https://www.w3schools.com/html/default.asp
